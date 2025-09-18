@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Environments
+.env
+.venv/
