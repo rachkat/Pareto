@@ -76,7 +76,7 @@ Here’s the resulting chart:
 
 ## Next Steps
 
-* Replace `issues_pareto.csv` with your own dataset (must include columns `Issue` and `Count`).
+* Replace `issues_pareto.csv` with another dataset (must include columns `Issue` and `Count`).
 * Extend the script to handle weighted metrics (e.g., cost or severity).
 * Build a dashboard (e.g., in Power BI, Tableau, or Streamlit) for interactive exploration.
 
