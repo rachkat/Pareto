@@ -65,6 +65,8 @@ Here’s the resulting chart:
 
 ![Pareto Chart](./pareto_chart.png)
 
+
+
 ---
 
 ## Next Steps
