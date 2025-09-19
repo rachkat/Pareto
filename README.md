@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 This project demonstrates a **Pareto analysis (80/20 rule)** using Python.  
 Pareto analysis is a decision-making technique that shows how a small number of categories often account for the majority of effects.  
 
