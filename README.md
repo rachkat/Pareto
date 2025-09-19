@@ -64,7 +64,8 @@ This aligns with the **Pareto Principle (80/20 rule)** — where focusing on a s
 ---
 Here’s the resulting chart:
 
-![Pareto Chart](./pareto_chart.png)
+![Pareto Chart](https://raw.githubusercontent.com/rachkat/Pareto/main/pareto_chart.png)
+
 
 ---
 
@@ -83,5 +84,8 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 ```
 
 ---
+
+
+
 
 
