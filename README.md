@@ -1,18 +1,86 @@
-# Pareto Analysis Project
-This repository demonstrates Pareto analysis (80/20 rule) applied to sample data.
+----
+# 📊 Pareto Analysis Project
 
-README_pareto_snippet.md
+**Author:** Rachel Goldsbury  
+**Date:** September 2025  
 
-## 📊 Pareto Analysis
+---
 
-This repository demonstrates a **Pareto analysis (80/20 rule)** on issue data.  
-It identifies the few categories that account for the majority of problems, helping prioritize improvements.
+## 📖 Overview
+This project demonstrates a **Pareto analysis (80/20 rule)** using Python.  
+Pareto analysis is a decision-making technique that shows how a small number of categories often account for the majority of effects.  
 
-### 📂 Files
-- `issues_pareto.csv` — sample dataset you can replace with your own  
-- `pareto_analysis.py` — script that reads the CSV and generates `pareto_chart.png`  
+In this example, issue categories (like billing, defects, and delivery) are analyzed to highlight which ones contribute most to customer problems.  
+The goal is to identify high-impact areas where improvements will yield the greatest benefits.  
 
-### ▶️ How to Run (Locally)
-```bash
-pip install pandas matplotlib
-python pareto_analysis.py
+---
+
+## 📂 Files
+- `issues_pareto.csv` — sample dataset (Issue, Count)  
+- `pareto_analysis.py` — Python script to generate the Pareto chart  
+- `pareto_chart.png` — output visualization of the analysis  
+
+---
+
+## ▶️ How to Run
+
+### Run Locally
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/rachkat/Pareto.git
+   cd Pareto
+````
+
+2. Install requirements:
+
+   ```bash
+   pip install pandas matplotlib
+   ```
+3. Run the script:
+
+   ```bash
+   python pareto_analysis.py
+   ```
+4. The chart `pareto_chart.png` will be created in the repo.
+
+### Run in GitHub Codespaces
+
+1. Click **Code → Create codespace on main**
+2. In the terminal inside Codespaces, run:
+
+   ```bash
+   pip install pandas matplotlib
+   python pareto_analysis.py
+   ```
+3. Commit & push the generated chart.
+
+---
+
+## 📈 Results
+
+The analysis shows that a few categories (Billing + Product Defect) account for most issues.
+This aligns with the **Pareto Principle (80/20 rule)** — where focusing on a small set of problems yields the biggest improvements.
+
+Here’s the resulting chart:
+
+![Pareto Chart](./pareto_chart.png)
+
+---
+
+## 🔮 Next Steps
+
+* Replace `issues_pareto.csv` with your own dataset (must include columns `Issue` and `Count`).
+* Extend the script to handle weighted metrics (e.g., cost or severity).
+* Build a dashboard (e.g., in Power BI, Tableau, or Streamlit) for interactive exploration.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+```
+
+---
+
+
