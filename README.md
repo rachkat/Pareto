@@ -29,7 +29,7 @@ The goal is to identify high-impact areas where improvements will yield the grea
    ```bash
    git clone https://github.com/rachkat/Pareto.git
    cd Pareto
-````
+```
 
 2. Install requirements:
 
