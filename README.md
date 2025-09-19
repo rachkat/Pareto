@@ -61,11 +61,10 @@ The goal is to identify high-impact areas where improvements will yield the grea
 The analysis shows that a few categories (Billing + Product Defect) account for most issues.
 This aligns with the **Pareto Principle (80/20 rule)** — where focusing on a small set of problems yields the biggest improvements.
 
+---
 Here’s the resulting chart:
 
 ![Pareto Chart](./pareto_chart.png)
-
-
 
 ---
 
