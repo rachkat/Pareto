@@ -1,5 +1,5 @@
 ----
-# 📊 Pareto Analysis Project
+# Pareto Analysis Project
 
 **Author:** Rachel Goldsbury  
 **Date:** September 2025  
@@ -15,14 +15,14 @@ The goal is to identify high-impact areas where improvements will yield the grea
 
 ---
 
-## 📂 Files
+## Files
 - `issues_pareto.csv` — sample dataset (Issue, Count)  
 - `pareto_analysis.py` — Python script to generate the Pareto chart  
 - `pareto_chart.png` — output visualization of the analysis  
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Run Locally
 1. Clone this repo:
@@ -56,7 +56,7 @@ The goal is to identify high-impact areas where improvements will yield the grea
 
 ---
 
-## 📈 Results
+## Results
 
 The analysis shows that a few categories (Billing + Product Defect) account for most issues.
 This aligns with the **Pareto Principle (80/20 rule)** — where focusing on a small set of problems yields the biggest improvements.
@@ -67,7 +67,7 @@ Here’s the resulting chart:
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 
 * Replace `issues_pareto.csv` with your own dataset (must include columns `Issue` and `Count`).
 * Extend the script to handle weighted metrics (e.g., cost or severity).
@@ -75,7 +75,7 @@ Here’s the resulting chart:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
