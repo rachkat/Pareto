@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Focus: Pareto 80/20](https://img.shields.io/badge/Focus-Pareto%2080%2F20-blueviolet)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-informational)
+
 ----
 # Pareto Analysis Project
 
